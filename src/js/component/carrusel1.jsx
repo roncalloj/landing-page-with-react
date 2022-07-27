@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function () {
+export const Carrusel1 = () => {
     return (
         <div className ="container bg-light pb-5">
 			<h1>A Warm Welcome!</h1>

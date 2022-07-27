@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function (){
+export const Carrusel2 = () => {
     return(
             <div id="carouselExampleControls" className ="carousel slide" data-bs-ride="carousel">
                 <div className ="carousel-inner">

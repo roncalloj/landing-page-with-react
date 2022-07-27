@@ -2,10 +2,10 @@ import React, { useState } from "react";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-import Navbar from "./navbar.jsx";
-import Carrusel1 from "./carrusel1.jsx";
-import Carrusel2 from "./carrusel2.jsx";
-import Cards from "./cards.jsx";
+import {Navbar} from "./navbar.jsx";
+import {Carrusel1} from "./carrusel1.jsx";
+import {Carrusel2} from "./carrusel2.jsx";
+import {Cards} from "./cards.jsx";
 
 //create your first component
 const Home = () => {

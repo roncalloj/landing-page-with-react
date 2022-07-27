@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function (props){
+export const Cards = (props) => {
     return(
         <div className ="card" style={{width: "100%"}}>
             <img src={props.img} className ="card-img-top"/>
